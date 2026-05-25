@@ -1,4 +1,4 @@
-<img width="1522" height="665" alt="image" src="https://github.com/user-attachments/assets/a9a118bf-fe7f-4daf-880d-f7a7d4635be1" /># Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
+# Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
 
 DEVELOPED BY : JEEVITHA K
 REGISTER NO : 212225040149
